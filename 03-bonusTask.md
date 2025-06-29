@@ -9,6 +9,8 @@ https://www.figma.com/design/csWiLLCmhxbmUOXICj3HGS/%E1%83%A8%E1%83%A3%E1%83%90%
 <!--  -->
 <!--  -->
 
+პასუხი: https://github.com/nnnakashidze/midterm-bonus-task
+
 # Bonus დავალება:
 
 დაამტეთ ფილტრი ასაკზე, თუ მომხამრებელი 50 წელზე მეტია მარტო მაშინ გამოჩნეს.
